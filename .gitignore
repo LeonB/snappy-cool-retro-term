@@ -1,0 +1,6 @@
+/stage/
+/parts/
+!/parts/plugins/*
+/prime/
+*.snap
+/snap/
